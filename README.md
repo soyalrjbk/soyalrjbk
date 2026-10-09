@@ -1,6 +1,6 @@
 ## Hi, I'm Soyal 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&width=520&lines=Full-Stack+Developer;Freelance+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&width=520&lines=Full-Stack+Developer;Freelance+Web+Developer;Building+Apps+for+Real+People" alt="Typing SVG" /></a>
 
 I love turning ideas into web apps that are easy to use and genuinely helpful, built with real people in mind.
 
@@ -23,3 +23,11 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,python,git,github,vscode,netlify&perline=8" />
 </p>
+
+<br>
+
+---
+
+<!-- QUOTE:START -->
+<p align="center"><i>"The secret of getting ahead is getting started."</i><br>— Mark Twain</p>
+<!-- QUOTE:END -->
