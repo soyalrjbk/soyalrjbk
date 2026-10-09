@@ -1,0 +1,48 @@
+name: Daily quote
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # every day, ~1am Eastern
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick today's quote
+        run: |
+          python3 - <<'PY'
+          import datetime, html, json, random, re
+
+          quotes = json.load(open(".github/quotes.json", encoding="utf-8"))
+
+          # Shuffle into a new random order each year, then show one per day,
+          # so it feels random but never repeats within the year.
+          today = datetime.date.today()
+          order = list(range(len(quotes)))
+          random.Random(today.year).shuffle(order)
+          q = quotes[order[(today.timetuple().tm_yday - 1) % len(quotes)]]
+
+          text = html.escape(q["q"], quote=False)
+          author = html.escape(q["a"], quote=False)
+          block = f'<p align="center"><i>"{text}"</i><br>— {author}</p>'
+
+          readme = open("README.md", encoding="utf-8").read()
+          readme = re.sub(r"<!-- QUOTE:START -->.*?<!-- QUOTE:END -->",
+                          f"<!-- QUOTE:START -->\n{block}\n<!-- QUOTE:END -->",
+                          readme, flags=re.S)
+          open("README.md", "w", encoding="utf-8").write(readme)
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Daily quote update"
+          git push
