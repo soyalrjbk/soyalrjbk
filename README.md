@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"A champion is someone who gets up when they can't."</i><br>— Jack Dempsey</p>
+<p align="center"><i>"Knowledge is power."</i><br>— Francis Bacon</p>
 <!-- QUOTE:END -->
