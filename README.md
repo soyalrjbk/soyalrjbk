@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Knowledge is power."</i><br>— Francis Bacon</p>
+<p align="center"><i>"Deleted code is debugged code."</i><br>— Jeff Sickel</p>
 <!-- QUOTE:END -->
