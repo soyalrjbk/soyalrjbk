@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Deleted code is debugged code."</i><br>— Jeff Sickel</p>
+<p align="center"><i>"Try not to become a man of success, but rather try to become a man of value."</i><br>— Albert Einstein</p>
 <!-- QUOTE:END -->
