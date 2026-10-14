@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it."</i><br>— Michael Jordan</p>
+<p align="center"><i>"Code never lies, comments sometimes do."</i><br>— Ron Jeffries</p>
 <!-- QUOTE:END -->
