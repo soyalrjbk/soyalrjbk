@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Code never lies, comments sometimes do."</i><br>— Ron Jeffries</p>
+<p align="center"><i>"Your mind is for having ideas, not holding them."</i><br>— David Allen</p>
 <!-- QUOTE:END -->
