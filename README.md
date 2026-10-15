@@ -21,7 +21,7 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,python,git,github,vscode,netlify&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,python,git,netlify,vercel&perline=7" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Python, Git, Netlify, Vercel" />
 </p>
 
 ---
