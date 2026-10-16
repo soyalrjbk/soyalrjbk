@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Your mind is for having ideas, not holding them."</i><br>— David Allen</p>
+<p align="center"><i>"Less is more."</i><br>— Ludwig Mies van der Rohe</p>
 <!-- QUOTE:END -->
