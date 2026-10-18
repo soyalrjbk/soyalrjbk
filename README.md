@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Intelligence is the ability to adapt to change."</i><br>— Stephen Hawking</p>
+<p align="center"><i>"Joy is the simplest form of gratitude."</i><br>— Karl Barth</p>
 <!-- QUOTE:END -->
