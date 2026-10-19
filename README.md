@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Joy is the simplest form of gratitude."</i><br>— Karl Barth</p>
+<p align="center"><i>"Believe in yourself and all that you are."</i><br>— Christian D. Larson</p>
 <!-- QUOTE:END -->
