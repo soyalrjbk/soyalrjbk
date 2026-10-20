@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Believe in yourself and all that you are."</i><br>— Christian D. Larson</p>
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i><br>— Cory House</p>
 <!-- QUOTE:END -->
