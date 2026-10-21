@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i><br>— Cory House</p>
+<p align="center"><i>"All our dreams can come true, if we have the courage to pursue them."</i><br>— Walt Disney</p>
 <!-- QUOTE:END -->
