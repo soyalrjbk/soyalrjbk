@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"All our dreams can come true, if we have the courage to pursue them."</i><br>— Walt Disney</p>
+<p align="center"><i>"Gratitude turns what we have into enough."</i><br>— Melody Beattie</p>
 <!-- QUOTE:END -->
