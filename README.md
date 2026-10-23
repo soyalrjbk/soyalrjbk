@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Gratitude turns what we have into enough."</i><br>— Melody Beattie</p>
+<p align="center"><i>"If you don't have time to read, you don't have the time—or the tools—to write."</i><br>— Stephen King</p>
 <!-- QUOTE:END -->
