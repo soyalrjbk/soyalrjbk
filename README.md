@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"If you don't have time to read, you don't have the time—or the tools—to write."</i><br>— Stephen King</p>
+<p align="center"><i>"Rivers carve rock not through power but through persistence."</i><br>— Jim Watkins</p>
 <!-- QUOTE:END -->
