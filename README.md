@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Rivers carve rock not through power but through persistence."</i><br>— Jim Watkins</p>
+<p align="center"><i>"The best revenge is massive success."</i><br>— Frank Sinatra</p>
 <!-- QUOTE:END -->
