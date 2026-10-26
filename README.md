@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"The best revenge is massive success."</i><br>— Frank Sinatra</p>
+<p align="center"><i>"Do something today that your future self will thank you for."</i><br>— Sean Patrick Flanery</p>
 <!-- QUOTE:END -->
