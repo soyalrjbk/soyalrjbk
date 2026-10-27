@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Do something today that your future self will thank you for."</i><br>— Sean Patrick Flanery</p>
+<p align="center"><i>"Learning to write programs stretches your mind, and helps you think better."</i><br>— Bill Gates</p>
 <!-- QUOTE:END -->
