@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Learning to write programs stretches your mind, and helps you think better."</i><br>— Bill Gates</p>
+<p align="center"><i>"The key is not to prioritize what's on your schedule, but to schedule your priorities."</i><br>— Stephen Covey</p>
 <!-- QUOTE:END -->
