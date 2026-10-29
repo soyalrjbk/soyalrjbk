@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"The key is not to prioritize what's on your schedule, but to schedule your priorities."</i><br>— Stephen Covey</p>
+<p align="center"><i>"Three things cannot be long hidden: the sun, the moon, and the truth."</i><br>— Buddha</p>
 <!-- QUOTE:END -->
