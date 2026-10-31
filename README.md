@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will."</i><br>— Vince Lombardi</p>
+<p align="center"><i>"You become what you believe."</i><br>— Oprah Winfrey</p>
 <!-- QUOTE:END -->
