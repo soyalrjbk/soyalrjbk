@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"You become what you believe."</i><br>— Oprah Winfrey</p>
+<p align="center"><i>"It's no use going back to yesterday, because I was a different person then."</i><br>— Lewis Carroll</p>
 <!-- QUOTE:END -->
