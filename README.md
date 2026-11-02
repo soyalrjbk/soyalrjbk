@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"It's no use going back to yesterday, because I was a different person then."</i><br>— Lewis Carroll</p>
+<p align="center"><i>"Just keep swimming."</i><br>— Dory (Finding Nemo)</p>
 <!-- QUOTE:END -->
