@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Just keep swimming."</i><br>— Dory (Finding Nemo)</p>
+<p align="center"><i>"The real problem is not whether machines think but whether men do."</i><br>— B.F. Skinner</p>
 <!-- QUOTE:END -->
