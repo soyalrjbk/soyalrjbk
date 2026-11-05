@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Look up at the stars and not down at your feet."</i><br>— Stephen Hawking</p>
+<p align="center"><i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i><br>— Albert Einstein</p>
 <!-- QUOTE:END -->
