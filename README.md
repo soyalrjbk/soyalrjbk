@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Science is what we understand well enough to explain to a computer. Art is everything else we do."</i><br>— Donald Knuth</p>
+<p align="center"><i>"If you have knowledge, let others light their candles in it."</i><br>— Margaret Fuller</p>
 <!-- QUOTE:END -->
