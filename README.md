@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"If you have knowledge, let others light their candles in it."</i><br>— Margaret Fuller</p>
+<p align="center"><i>"Be so good they can't ignore you."</i><br>— Steve Martin</p>
 <!-- QUOTE:END -->
