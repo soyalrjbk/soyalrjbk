@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"You can't cross the sea merely by standing and staring at the water."</i><br>— Rabindranath Tagore</p>
+<p align="center"><i>"The roots of education are bitter, but the fruit is sweet."</i><br>— Aristotle</p>
 <!-- QUOTE:END -->
