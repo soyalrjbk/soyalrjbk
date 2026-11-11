@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"The roots of education are bitter, but the fruit is sweet."</i><br>— Aristotle</p>
+<p align="center"><i>"The future is already here—it's just not very evenly distributed."</i><br>— William Gibson</p>
 <!-- QUOTE:END -->
