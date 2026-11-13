@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Good design adds value faster than it adds cost."</i><br>— Thomas C. Gale</p>
+<p align="center"><i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i><br>— George Bernard Shaw</p>
 <!-- QUOTE:END -->
