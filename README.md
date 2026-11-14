@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i><br>— George Bernard Shaw</p>
+<p align="center"><i>"Don't be afraid to give up the good to go for the great."</i><br>— John D. Rockefeller</p>
 <!-- QUOTE:END -->
