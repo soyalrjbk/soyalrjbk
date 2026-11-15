@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Don't be afraid to give up the good to go for the great."</i><br>— John D. Rockefeller</p>
+<p align="center"><i>"Design is not just what it looks like and feels like. Design is how it works."</i><br>— Steve Jobs</p>
 <!-- QUOTE:END -->
