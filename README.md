@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Design is not just what it looks like and feels like. Design is how it works."</i><br>— Steve Jobs</p>
+<p align="center"><i>"Keep away from people who try to belittle your ambitions."</i><br>— Mark Twain</p>
 <!-- QUOTE:END -->
