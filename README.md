@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Keep away from people who try to belittle your ambitions."</i><br>— Mark Twain</p>
+<p align="center"><i>"The scariest moment is always just before you start."</i><br>— Stephen King</p>
 <!-- QUOTE:END -->
