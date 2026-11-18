@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"The scariest moment is always just before you start."</i><br>— Stephen King</p>
+<p align="center"><i>"The best way out is always through."</i><br>— Robert Frost</p>
 <!-- QUOTE:END -->
