@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"The best way out is always through."</i><br>— Robert Frost</p>
+<p align="center"><i>"One of my most productive days was throwing away 1,000 lines of code."</i><br>— Ken Thompson</p>
 <!-- QUOTE:END -->
