@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"One of my most productive days was throwing away 1,000 lines of code."</i><br>— Ken Thompson</p>
+<p align="center"><i>"Life is 10% what happens to you and 90% how you react to it."</i><br>— Charles R. Swindoll</p>
 <!-- QUOTE:END -->
