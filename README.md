@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Life is 10% what happens to you and 90% how you react to it."</i><br>— Charles R. Swindoll</p>
+<p align="center"><i>"You are never too old to set another goal or to dream a new dream."</i><br>— Les Brown</p>
 <!-- QUOTE:END -->
