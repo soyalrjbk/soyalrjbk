@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"You are never too old to set another goal or to dream a new dream."</i><br>— Les Brown</p>
+<p align="center"><i>"There is no substitute for hard work."</i><br>— Thomas Edison</p>
 <!-- QUOTE:END -->
