@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"There is no substitute for hard work."</i><br>— Thomas Edison</p>
+<p align="center"><i>"Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves."</i><br>— Marie Curie</p>
 <!-- QUOTE:END -->
