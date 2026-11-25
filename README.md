@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"Pleasure in the job puts perfection in the work."</i><br>— Aristotle</p>
+<p align="center"><i>"Far and away the best prize that life offers is the chance to work hard at work worth doing."</i><br>— Theodore Roosevelt</p>
 <!-- QUOTE:END -->
