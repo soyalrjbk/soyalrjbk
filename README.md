@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"I have been impressed with the urgency of doing. Knowing is not enough; we must apply."</i><br>— Leonardo da Vinci</p>
+<p align="center"><i>"They can because they think they can."</i><br>— Virgil</p>
 <!-- QUOTE:END -->
