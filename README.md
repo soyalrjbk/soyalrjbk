@@ -27,5 +27,5 @@ I love turning ideas into web apps that are easy to use and genuinely helpful, b
 ---
 
 <!-- QUOTE:START -->
-<p align="center"><i>"They can because they think they can."</i><br>— Virgil</p>
+<p align="center"><i>"Success is the sum of small efforts, repeated day in and day out."</i><br>— Robert Collier</p>
 <!-- QUOTE:END -->
